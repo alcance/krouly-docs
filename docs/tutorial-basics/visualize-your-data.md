@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Visualize your data
 
-You need to add your [API KEY](api-key.md) to your .env file.
+You need to add your **API KEY** to your `.env` file.
 
 To to this rename create a copy of `.env.example`, set your key inside:
 
