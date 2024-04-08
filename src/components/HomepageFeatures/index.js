@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your product features and we&apos;ll do the chores. Go
+        Krouly lets you focus on your product features and we&apos;ll do the chores. Go
         ahead and spin a Krouly instance to get the party started!
       </>
     ),
